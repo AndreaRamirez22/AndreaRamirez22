@@ -17,11 +17,10 @@
 
 ### Mis redes sociales
 
-[<img src='https://github.com/lgzarturo/lgzarturo/raw/master/assets/linkedin.png' alt='LinkedIn' width='24' style='width:24px; margin-right: 10px;'/>](https://www.linkedin.com/in/andrea-ramirez22/)
-
+[<img src='https://github.com/lgzarturo/lgzarturo/raw/master/assets/linkedin.png' alt='LinkedIn' width='24' style='width:24px; margin-right: 10px;'/>](https://www.linkedin.com/in/andrea-ramirez22/) 
 [<img src='https://github.com/lgzarturo/lgzarturo/raw/master/assets/instagram.png' alt='instagram' width='24' style='width:24px; margin-right: 10px;'/>](https://instagram.com/andrea.ramirez.13?igshid=ZDdkNTZiNTM=)
-
 [<img src='https://github.com/lgzarturo/lgzarturo/raw/master/assets/facebook.png' alt='Facebook' width='24' style='width:24px; margin-right: 10px;'/>](https://www.facebook.com/profile.php?id=100009274962400)
+
 
 
 
